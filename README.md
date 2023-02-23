@@ -1,5 +1,10 @@
 # Work Day Scheduler 
 
+https://juliaghany.github.io/Work-Day-Scheduler/
+
+![Model](https://user-images.githubusercontent.com/121564618/221010045-2aa68353-889a-471f-b3b3-8e4c30bda4c9.png)
+
+
 ## Description
 - My motivation for this project was to learn how to create a simple work day scheduler that saves plans for the user in color-coded time blocks. 
 - I built this project so that the user can schedule their work day with time blocks that indicate whether those plans were in the past, present, or future. That way, they can know what they should've already done, what they shoud be doing, and what they will have to do later in the day. I also built this project to gain more experience with jQuery. 
